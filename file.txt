@@ -1,6 +1,5 @@
 ! Title: My filters
 ! Expires: 1 day (update frequency)
-
 ! 2023-06-25 https://www.crunchbase.com
 www.crunchbase.com##.cdk-overlay-container
 
