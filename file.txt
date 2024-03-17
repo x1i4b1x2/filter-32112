@@ -30,6 +30,8 @@ www.google.com##.a1DBFd
 !#https://letsblock.it/
 www.google.*##.g:has(a[href*=".nbcnews."])
 www.google.*##a[href*=".nbcnews."]:upward(1)
+www.google.*##.g:has(a[href*=".bostonglobe."])
+www.google.*##a[href*=".bostonglobe."]:upward(1)
 www.google.*##.g:has(a[href*=".foxnews."])
 www.google.*##a[href*=".foxnews."]:upward(1)
 www.google.*##.g:has(a[href*=".newsweek."])
@@ -242,7 +244,6 @@ www.google.*##.g:has(a[href*=".dtnext."])
 www.google.*##a[href*=".dtnext."]:upward(1)
 www.google.*##.g:has(a[href*=".eastbaytimes."])
 www.google.*##a[href*=".eastbaytimes."]:upward(1)
-
 
 !#https://letsblock.it/
 !# Toplevel rich content above columns
