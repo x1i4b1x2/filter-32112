@@ -110,4 +110,4 @@
 *://*.newsweek.com/*
 *://*.foxnews.com/*
 *://*.bostonglobe.com/*
-
+*://*.daytondailynews.com/*
