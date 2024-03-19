@@ -30,6 +30,12 @@ www.google.com##.a1DBFd
 !#https://letsblock.it/
 www.google.*##.g:has(a[href*=".nbcnews."])
 www.google.*##a[href*=".nbcnews."]:upward(1)
+www.google.*##.g:has(a[href*=".sky."])
+www.google.*##a[href*=".sky."]:upward(1)
+www.google.*##.g:has(a[href*=".usnews."])
+www.google.*##a[href*=".usnews."]:upward(1)
+www.google.*##.g:has(a[href*=".wired."])
+www.google.*##a[href*=".wired."]:upward(1)
 www.google.*##.g:has(a[href*=".daytondailynews."])
 www.google.*##a[href*=".daytondailynews."]:upward(1)
 www.google.*##.g:has(a[href*=".bostonglobe."])
