@@ -2,6 +2,7 @@
 *://*.sky.com/*
 *://*.usnews.com/*
 *://*.wired.com/*
+*://*.prospect.org/*
 *://*.nytimes.com/*
 *://*.theguardian.com/*
 *://*.nymag.com/*
