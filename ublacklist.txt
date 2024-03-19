@@ -1,4 +1,7 @@
 *://*.cnn.com/*
+*://*.sky.com/*
+*://*.usnews.com/*
+*://*.wired.com/*
 *://*.nytimes.com/*
 *://*.theguardian.com/*
 *://*.nymag.com/*
