@@ -27,8 +27,8 @@ www.wsj.com###wrapper-AD_PUSH
 ! 2024-03-17 https://www.google.com remove Europe alert
 www.google.com##.a1DBFd
 
-||nytimes.com^$all
-google.*###rso .MjjYud a[href*="nytimes.com"]:upward(.MjjYud)
+||nytimes.com
+!google.*###rso .MjjYud a[href*="nytimes.com"]:upward(.MjjYud)
 
 !#https://letsblock.it/
 www.google.*##.g:has(a[href*=".nbcnews."])
