@@ -28,6 +28,7 @@ www.wsj.com###wrapper-AD_PUSH
 www.google.com##.a1DBFd
 
 ||nytimes.com^$all
+google.*###rso .MjjYud a[href*="nytimes.com"]:upward(.MjjYud)
 
 !#https://letsblock.it/
 www.google.*##.g:has(a[href*=".nbcnews."])
