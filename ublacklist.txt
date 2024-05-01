@@ -116,3 +116,4 @@
 *://*.foxnews.com/*
 *://*.bostonglobe.com/*
 *://*.daytondailynews.com/*
+*://*.foreignpolicy.com/*
