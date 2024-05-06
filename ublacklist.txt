@@ -117,3 +117,5 @@
 *://*.bostonglobe.com/*
 *://*.daytondailynews.com/*
 *://*.foreignpolicy.com/*
+*://*.miaminewtimes.com/*
+*://*.miamiherald.com/*
