@@ -28,6 +28,10 @@ www.wsj.com###wrapper-AD_PUSH
 www.google.com##.a1DBFd
 
 !#https://letsblock.it/
+www.google.*##.g:has(a[href*=".miaminewtimes."])
+www.google.*##a[href*=".miaminewtimes."]:upward(1)
+www.google.*##.g:has(a[href*=".miamiherald."])
+www.google.*##a[href*=".miamiherald."]:upward(1)
 www.google.*##.g:has(a[href*=".foreignpolicy."])
 www.google.*##a[href*=".foreignpolicy."]:upward(1)
 www.google.*##.g:has(a[href*=".nbcnews."])
