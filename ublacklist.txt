@@ -141,3 +141,9 @@
 *://*.cityandstateny.com/*
 *://*.voanews.com/*
 *://*.statesman.com/*
+*://*.thesun.co.uk/*
+*://*.irishtimes.com/*
+*://*.thenational.scot/*
+*://*.qz.com/*
+*://*.everand.com/*
+*://*.irishmirror.ie/*
