@@ -28,6 +28,10 @@ www.wsj.com###wrapper-AD_PUSH
 www.google.com##.a1DBFd
 
 !#https://letsblock.it/
+www.google.*##.g:has(a[href*=".sacbee."])
+www.google.*##a[href*=".sacbee."]:upward(1)
+www.google.*##.g:has(a[href*=".calmatters."])
+www.google.*##a[href*=".calmatters."]:upward(1)
 www.google.*##.g:has(a[href*=".lailluminator."])
 www.google.*##a[href*=".lailluminator."]:upward(1)
 www.google.*##.g:has(a[href*=".southdakotasearchlight."])
