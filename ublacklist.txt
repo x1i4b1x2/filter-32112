@@ -147,3 +147,5 @@
 *://*.qz.com/*
 *://*.everand.com/*
 *://*.irishmirror.ie/*
+*://*.calmatters.org/*
+*://*.sacbee.com/*
