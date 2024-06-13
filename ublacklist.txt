@@ -149,3 +149,4 @@
 *://*.irishmirror.ie/*
 *://*.calmatters.org/*
 *://*.sacbee.com/*
+*://*.jacobin.com/*
