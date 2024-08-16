@@ -28,6 +28,20 @@ www.wsj.com###wrapper-AD_PUSH
 www.google.com##.a1DBFd
 
 !#https://letsblock.it/
+www.google.*##.g:has(a[href*=".ft."])
+www.google.*##a[href*=".ft."]:upward(1)
+www.google.*##.g:has(a[href*=".gq."])
+www.google.*##a[href*=".gq."]:upward(1)
+www.google.*##.g:has(a[href*=".wsj."])
+www.google.*##a[href*=".wsj."]:upward(1)
+www.google.*##.g:has(a[href*=".vice."])
+www.google.*##a[href*=".vice."]:upward(1)
+www.google.*##.g:has(a[href*=".people."])
+www.google.*##a[href*=".people."]:upward(1)
+www.google.*##.g:has(a[href*=".fortune."])
+www.google.*##a[href*=".fortune."]:upward(1)
+www.google.*##.g:has(a[href*=".dailymail."])
+www.google.*##a[href*=".dailymail."]:upward(1)
 www.google.*##.g:has(a[href*=".jacobin."])
 www.google.*##a[href*=".jacobin."]:upward(1)
 www.google.*##.g:has(a[href*=".sacbee."])
