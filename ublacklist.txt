@@ -150,3 +150,10 @@
 *://*.calmatters.org/*
 *://*.sacbee.com/*
 *://*.jacobin.com/*
+*://*.ft.com/*
+*://*.gq.com/*
+*://*.wsj.com/*
+*://*.vice.com/*
+*://*.people.com/*
+*://*.fortune.com/*
+*://*.dailymail.co.uk/*
