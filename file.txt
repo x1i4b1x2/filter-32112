@@ -338,6 +338,8 @@ www.google.*##.g:has(a[href*=".dtnext."])
 www.google.*##a[href*=".dtnext."]:upward(1)
 www.google.*##.g:has(a[href*=".eastbaytimes."])
 www.google.*##a[href*=".eastbaytimes."]:upward(1)
+www.google.*##.g:has(a[href*=".thenation."])
+www.google.*##a[href*=".thenation."]:upward(1)
 
 !#https://letsblock.it/
 !# Toplevel rich content above columns
