@@ -157,3 +157,4 @@
 *://*.people.com/*
 *://*.fortune.com/*
 *://*.dailymail.co.uk/*
+*://*.thenation.com/*
