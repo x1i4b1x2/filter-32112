@@ -3,6 +3,8 @@
 ! 2023-06-25 https://www.crunchbase.com
 www.crunchbase.com##.cdk-overlay-container
 
+www.tiktok.com###main-content-homepage_hot
+
 ! 2023-07-31 https://www.youtube.com
 www.youtube.com###continuations > .ytd-watch-next-secondary-results-renderer.style-scope
 
